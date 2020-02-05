@@ -1,0 +1,9 @@
+C:\Users\Marshall\source\repos\New Bitcoin Calculator\New Bitcoin Calculator\obj\Debug\New Bitcoin Calculator.csprojAssemblyReference.cache
+C:\Users\Marshall\source\repos\New Bitcoin Calculator\New Bitcoin Calculator\obj\Debug\New_Bitcoin_Calculator.btcCalculator.resources
+C:\Users\Marshall\source\repos\New Bitcoin Calculator\New Bitcoin Calculator\obj\Debug\New_Bitcoin_Calculator.Properties.Resources.resources
+C:\Users\Marshall\source\repos\New Bitcoin Calculator\New Bitcoin Calculator\obj\Debug\New Bitcoin Calculator.csproj.GenerateResource.cache
+C:\Users\Marshall\source\repos\New Bitcoin Calculator\New Bitcoin Calculator\bin\Debug\New Bitcoin Calculator.exe.config
+C:\Users\Marshall\source\repos\New Bitcoin Calculator\New Bitcoin Calculator\bin\Debug\New Bitcoin Calculator.exe
+C:\Users\Marshall\source\repos\New Bitcoin Calculator\New Bitcoin Calculator\bin\Debug\New Bitcoin Calculator.pdb
+C:\Users\Marshall\source\repos\New Bitcoin Calculator\New Bitcoin Calculator\obj\Debug\New Bitcoin Calculator.exe
+C:\Users\Marshall\source\repos\New Bitcoin Calculator\New Bitcoin Calculator\obj\Debug\New Bitcoin Calculator.pdb
